@@ -1,7 +1,5 @@
 # Amazon Sales Analytics - End to End
 
-> Comprehensive sales analytics solution: Data Cleaning → SQL Analysis → EDA → RFM/Churn Modeling → Interactive Power BI Dashboard
-
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -11,7 +9,7 @@
 
 ## 📋 Project Overview
 
-End-to-end sales analytics project analyzing 120K+ Amazon orders across 4 months. Performed comprehensive data cleaning, SQL database management, exploratory analysis, and built advanced customer segmentation using RFM analysis and churn prediction models. Designed interactive Power BI dashboards with DAX-calculated KPIs, geographic insights, and behavioral analytics to identify $20M in at-risk revenue and deliver actionable retention strategies.
+End-to-end sales analytics project analyzing 120K+ Amazon orders across 4 months. Performed comprehensive data cleaning, SQL database management, exploratory analysis, and built advanced customer segmentation using RFM analysis. Designed interactive Power BI dashboards with DAX-calculated KPIs, geographic insights, and behavioral analytics to identify $20M in at-risk revenue and deliver actionable retention strategies.
 
 ---
 
@@ -20,14 +18,14 @@ End-to-end sales analytics project analyzing 120K+ Amazon orders across 4 months
 Raw Data → Data Cleaning → SQL Database → EDA → RFM & Churn Analysis → Power BI Dashboard
 ```
 
-**What I Covered:**
-1. ✅ Data cleaning and preprocessing
-2. ✅ Loading data into SQL database
-3. ✅ Performing SQL queries and basic analysis
-4. ✅ Exploratory Data Analysis (EDA) in Python
-5. ✅ RFM segmentation (6 customer clusters)
-6. ✅ Churn prediction modeling
-7. ✅ Interactive Power BI dashboard with advanced DAX
+**Steps Overview:**
+1.  Data cleaning and preprocessing
+2.  Loading data into SQL database
+3.  Performing SQL queries and basic analysis
+4.  Exploratory Data Analysis (EDA) in Python
+5.  RFM segmentation (6 customer clusters)
+6.  Churn prediction modeling
+7.  Interactive Power BI dashboard with advanced DAX
 
 ---
 
@@ -163,14 +161,22 @@ Raw Data → Data Cleaning → SQL Database → EDA → RFM & Churn Analysis →
 **Live Dashboard:**
 - [View Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZGQ4OTg1MTYtNWI3My00YjhlLWE3OTAtNDJlMjAwZGY5ZTM5IiwidCI6IjA5YTA3MGE3LWMzMzctNGFmNi1iMzZmLTQwMDE1MWY3NGEyYSJ9)
 
-### Dashboard Features:
+
+## 🏠 Dashboard – Homepage
+![Amazon Sales Dashboard Homepage](https://github.com/Himanshu76-DA/Amazon-Sales-Analytics-End-to-End/blob/main/Amazon%20sales%20dashboard%20homepage.png)
 
 #### Page 1: Executive Overview
 - Real-time KPIs with Month-over-Month % tracking (+/- formatted)
 - Geographic performance analysis (Top 10 states)
 - Monthly sales breakdown (Donut chart)
-- Category trends over time
+- Total sale over time
 - Weekly sales performance
+
+
+---
+
+## 📄 Dashboard – Page 2
+![Amazon Sales Dashboard Page 2](https://github.com/Himanshu76-DA/Amazon-Sales-Analytics-End-to-End/blob/main/Amazon%20sales%20dashboard%20page%202.png)
 
 #### Page 2: Customer Intelligence
 - **RFM Segmentation:** 6 customer clusters based on Recency, Frequency, Monetary value
@@ -197,7 +203,7 @@ Raw Data → Data Cleaning → SQL Database → EDA → RFM & Churn Analysis →
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 **Dataset:** Amazon Sales Data (March 2022 - June 2022)  
 **Tools:** Power BI Desktop, Python 3.x, MySQL, Jupyter Notebook
