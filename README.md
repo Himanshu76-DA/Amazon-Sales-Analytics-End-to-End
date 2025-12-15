@@ -203,13 +203,6 @@ Raw Data → Data Cleaning → SQL Database → EDA → RFM & Churn Analysis →
 
 ---
 
-## Acknowledgments
-
-**Dataset:** Amazon Sales Data (March 2022 - June 2022)  
-**Tools:** Power BI Desktop, Python 3.x, MySQL, Jupyter Notebook
-
----
-
 ⭐ **If you found this project helpful, please give it a star!**
 
 ---
