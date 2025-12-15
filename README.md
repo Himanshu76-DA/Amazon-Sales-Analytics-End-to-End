@@ -81,6 +81,20 @@ Raw Data → Data Cleaning → SQL Database → EDA → RFM & Churn Analysis →
 - **EDA Output CSV:** [Amazon Sales EDA CSV.zip](https://github.com/Himanshu76-DA/Amazon-Sales-Analytics-End-to-End/blob/main/Amazon%20sales%20data%20Eda%20csv%20file.zip)
 - **Jupyter Notebook:** [EDA File.ipynb](https://github.com/Himanshu76-DA/Amazon-Sales-Analytics-End-to-End/blob/main/EDA%20file.ipynb)
 
+### 📈 Key Visualizations
+
+#### Sales Trends Over Time by Category
+![Sales Over Time](https://github.com/Himanshu76-DA/Amazon-Sales-Analytics-End-to-End/blob/main/Sales%20over%20time%20by%20Categories.png)
+*Category-wise sales performance showing seasonal patterns and trends*
+
+#### Daily Sales Heatmap
+![Daily Sales Heatmap](https://github.com/Himanshu76-DA/Amazon-Sales-Analytics-End-to-End/blob/main/Daily%20Sales%20overview%20by%20heatmap.png)
+*Heatmap visualization revealing peak sales days and patterns across months*
+
+#### Geographic Churn Distribution
+![Churn by State](https://github.com/Himanshu76-DA/Amazon-Sales-Analytics-End-to-End/blob/main/Ship%20states%20having%20customers%20by%20churn%20labels.png)
+*State-wise customer distribution across churn risk categories*
+
 ---
 
 ## 💡 Key Insights
@@ -171,13 +185,16 @@ Raw Data → Data Cleaning → SQL Database → EDA → RFM & Churn Analysis →
 
 - **Power BI Desktop** - Interactive dashboards & visualizations
 - **DAX** - Advanced calculations (MoM%, custom measures)
-- **Python** - Data cleaning, EDA, RFM scoring, churn modeling, Data manipulation and analysis
+- **Python** - Data cleaning, EDA, RFM scoring, churn modeling, data manipulation and analysis
 - **SQL (MySQL)** - Database management and querying
 - **Matplotlib & Seaborn** - Data visualization
 
 ---
 
-📧 **Contact:** himanshujanghu76@gmail.com 
+## 📧 Contact
+
+**Email:** himanshujanghu76@gmail.com
+
 ---
 
 ## 🙏 Acknowledgments
